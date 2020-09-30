@@ -38,3 +38,14 @@ body{
     font-weight: bold;
     padding-top: 5px;
 }
+.footersection{
+    height: 90px;
+    background: #555555;
+}
+.footersection p{
+    color: #fff;
+    font-size: 30px;
+    font-weight: blod;
+    padding-top: 30px;
+    text-align: center;
+}
